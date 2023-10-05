@@ -7,4 +7,5 @@ Due to academic integrity, source code is only available upon request. You can f
 
 Example board:
 
-![image](https://github.com/sarah-wilsxn/catan/assets/106021956/3fd278ab-b639-4c84-bd40-d20af4db5498)
+![image](https://github.com/sarah-wilsxn/Constructor/assets/106021956/85f90a22-1be3-4f8a-96da-e1f5401d07cc)
+
